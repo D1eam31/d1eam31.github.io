@@ -10,11 +10,11 @@ categories: learning
 
 tags:
 
-&#x20; - AI
+  - AI
 
-&#x20; - learning
+  - learning
 
-&#x20; - graduate
+  - graduate
 
 ---
 
