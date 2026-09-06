@@ -1,4 +1,4 @@
-\---
+---
 
 layout: page
 
@@ -6,11 +6,11 @@ title: About
 
 permalink: /about/
 
-\---
+---
 
 
 
-\# About Me
+# About Me
 
 
 
@@ -26,21 +26,21 @@ permalink: /about/
 
 
 
-\- 深度学习基础
+- 深度学习基础
 
-\- 计算机视觉
+- 计算机视觉
 
-\- 知识蒸馏
+- 知识蒸馏
 
-\- Transformer
+- Transformer
 
-\- 多模态学习
+- 多模态学习
 
-\- Efficient AI
+- Efficient AI
 
-\- AI Systems
+- AI Systems
 
-\- AI Agents
+- AI Agents
 
 
 

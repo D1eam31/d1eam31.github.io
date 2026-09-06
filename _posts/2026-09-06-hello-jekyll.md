@@ -1,4 +1,4 @@
-\---
+---
 
 layout: post
 
@@ -16,7 +16,7 @@ tags:
 
 &#x20; - graduate
 
-\---
+---
 
 
 
@@ -24,7 +24,7 @@ tags:
 
 
 
-\## 为什么建立这个博客
+## 为什么建立这个博客
 
 
 
@@ -36,19 +36,19 @@ tags:
 
 
 
-\- 我真正理解了什么；
+- 我真正理解了什么；
 
-\- 哪些问题曾经困扰我；
+- 哪些问题曾经困扰我；
 
-\- 我进行了哪些实验；
+- 我进行了哪些实验；
 
-\- 实验结果与预期有什么不同；
+- 实验结果与预期有什么不同；
 
-\- 我对论文和代码的理解如何变化。
+- 我对论文和代码的理解如何变化。
 
 
 
-\## 当前的学习路线
+## 当前的学习路线
 
 
 
@@ -56,23 +56,23 @@ tags:
 
 
 
-1\. PyTorch 与神经网络训练流程；
+1. PyTorch 与神经网络训练流程；
 
-2\. CNN 与 ResNet；
+2. CNN 与 ResNet；
 
-3\. 知识蒸馏；
+3. 知识蒸馏；
 
-4\. Attention 与 Transformer；
+4. Attention 与 Transformer；
 
-5\. Vision Transformer；
+5. Vision Transformer；
 
-6\. 多模态与高效人工智能；
+6. 多模态与高效人工智能；
 
-7\. AI Systems 与 AI Agents。
+7. AI Systems 与 AI Agents。
 
 
 
-\## 为什么使用 GitHub
+## 为什么使用 GitHub
 
 
 

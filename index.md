@@ -1,14 +1,14 @@
-\---
+---
 
 layout: home
 
 title: Home
 
-\---
+---
 
 
 
-\# D1eam31's Lab
+# D1eam31's Lab
 
 
 
@@ -20,7 +20,7 @@ title: Home
 
 
 
-\## Learning
+## Learning
 
 
 
@@ -28,25 +28,25 @@ title: Home
 
 
 
-\- Deep Learning
+- Deep Learning
 
-\- Computer Vision
+- Computer Vision
 
-\- Knowledge Distillation
+- Knowledge Distillation
 
-\- Transformer
+- Transformer
 
-\- Multimodal Learning
+- Multimodal Learning
 
-\- Efficient AI
+- Efficient AI
 
-\- AI Systems
+- AI Systems
 
-\- AI Agents
+- AI Agents
 
 
 
-\## Projects
+## Projects
 
 
 
@@ -54,7 +54,7 @@ title: Home
 
 
 
-\## About
+## About
 
 
 
