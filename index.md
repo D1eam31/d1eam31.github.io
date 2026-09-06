@@ -2,6 +2,10 @@
 
 title: D1eam31's Lab
 
+layout: home
+
+title: Home
+
 \---
 
 
