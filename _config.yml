@@ -6,3 +6,6 @@ url: "https://d1eam31.github.io"
 baseurl: ""
 
 theme: minima
+
+header_pages:
+  - about.md
