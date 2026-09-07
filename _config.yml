@@ -8,4 +8,6 @@ baseurl: ""
 theme: minima
 
 header_pages:
+  - posts.md
+  - projects.md
   - about.md
